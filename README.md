@@ -1,8 +1,7 @@
 # myanblog
 
- ![Screen Shot 2020-03-25 at 10 38 26](https://user-images.githubusercontent.com/8923057/77500942-e1b9a580-6e84-11ea-8989-54e5c392bb5b.png)
+![Screen Shot 2020-04-11 at 18 32 31 (2)](https://user-images.githubusercontent.com/8923057/79043132-516cb600-7c23-11ea-9e57-7d81984729c0.png)
 
- ![Screen Shot 2020-03-25 at 10 38 53](https://user-images.githubusercontent.com/8923057/77500962-eda56780-6e84-11ea-9c9a-9554b349dbd9.png)
 
 ##### *** This is work in progress ****
 A React Native Testing App, this project was testing over ~~two days~~ a period of time for learning purposes and is theremore not being maintained. Feel free to fork and use as you please.
